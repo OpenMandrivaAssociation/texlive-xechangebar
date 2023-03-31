@@ -1,6 +1,6 @@
 Name:		texlive-xechangebar
 Version:	54080
-Release:	1
+Release:	2
 Summary:	An extension of package changebar that can be used with XeLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xechangebar
