@@ -3,7 +3,7 @@ Version:	54080
 Release:	2
 Summary:	An extension of package changebar that can be used with XeLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xechangebar
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xechangebar
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xechangebar.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xechangebar.doc.r%{version}.tar.xz
